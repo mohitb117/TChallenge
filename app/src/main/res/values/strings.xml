@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Tweather</string>
-    <string name="current_temperature">Current temperature</string>
-    <string name="temperature">%1$f °C / %2$f °F</string>
+    <string name="temperature">%1$.2f °C / %2$.2f °F</string>
+    <string name="windspeed">%1$.2f m/s</string>
+    <string name="std_dev">Std Deviation: %1$.4f °C / %2$.4f °F</string>
 </resources>
